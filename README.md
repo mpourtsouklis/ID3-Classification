@@ -30,7 +30,7 @@ The ID3 algorithm is used to construct decision trees based on textual data to c
 -  **check:** Computes true positives, true negatives, false positives, and false negatives from ID3 results
 -  **validate:** Calculates and prints accuracy, precision, recall, and F1 score based on the computed metrics
 
--  ### **PerformanceChecker:** Evaluates ID3 decision tree performance iteratively
+### **PerformanceChecker:** Evaluates ID3 decision tree performance iteratively
 -  **checkTrain:** Evaluates ID3 algorithm performance across different sizes of training data, generating tables and charts
 -  **checkTest:** Evaluates ID3 algorithm performance across different sizes of test data, generating tables and charts
 
